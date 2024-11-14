@@ -1,0 +1,5 @@
+Home,../index.php
+Menu,menu.php
+About,About_us.php
+Contact,../index.php
+FAQ,../index.php
